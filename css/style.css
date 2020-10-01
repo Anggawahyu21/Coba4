@@ -1,0 +1,19 @@
+html {
+	position: relative;
+}
+
+.navbar{
+	background-image: url(imgjum.jpg);
+}
+.navbar img{
+	width: 80px;
+	border: 2px solid #cabd07;
+	border-radius: 100%;
+}
+.btn {
+	outline-color: lightblue;
+}
+.about hr {
+	width: 250px;
+	border-top: 3px solid #999;
+}
